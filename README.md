@@ -32,7 +32,7 @@
 </div>
 
 ---
-
+<div align="centre">
 ## 🚀 About Me
 
 <div id="about-en" class="language-content">
