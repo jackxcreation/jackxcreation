@@ -32,8 +32,8 @@
 </div>
 
 ---
-<div align="centre">
-## 🚀 About Me
+
+<h1 align="centre">🚀 About Me</h1>
 
 <div id="about-en" class="language-content">
 
