@@ -38,7 +38,8 @@
 <div id="about-en" class="language-content">
 
 </div>
-<p>Hello My Self JAck</p>
+<p>Future Software Engineer 🚀 | Learning to turn ideas into impactful digital products. Focused on full-stack development, problem-solving, and growth through open-source.
+</p>
 <div id="about-jp" class="language-content" style="display: none;">
 
 </div>
