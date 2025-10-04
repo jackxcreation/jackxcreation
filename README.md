@@ -33,7 +33,7 @@
 
 ---
 
-<h1 align="centre">🚀 About Me</h1>
+<h1 align="center">🚀 About Me</h1>
 
 <div id="about-en" class="language-content">
 
