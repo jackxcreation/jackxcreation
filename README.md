@@ -38,7 +38,7 @@
 <div id="about-en" class="language-content">
 
 </div>
-
+<p>Hello My Self JAck</p>
 <div id="about-jp" class="language-content" style="display: none;">
 
 </div>
