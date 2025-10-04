@@ -35,7 +35,7 @@
 
 <h1 align="center">🚀 About Me</h1>
 <p align="center">
-  <img src="[https://i.pinimg.com/originals/2e/5c/7b/2e5c7b56dfbc687e7b42c1d5f4d9137a.gif" width="300" alt="anime coding](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" alt="developer animation)">
+  <img src="https://i.pinimg.com/originals/2e/5c/7b/2e5c7b56dfbc687e7b42c1d5f4d9137a.gif" width="300" alt="anime coding](https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="250" alt="developer animation">
 </p>
 
 
